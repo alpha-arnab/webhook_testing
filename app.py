@@ -1,2 +1,4 @@
-GOOGLE_API_KEY=AIzaSyBOWXQZoGyukjUD_Drj63_syFwoO14KRSI
+import os
+
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 from GOOGLE_API_KEY import xyz
