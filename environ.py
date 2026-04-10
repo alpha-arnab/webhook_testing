@@ -1,6 +1,7 @@
 import re
 import github
+import os
 
-OPENAI_API_KEY= "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"
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 llm2 = OPENAI_API_KEY.call()
