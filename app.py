@@ -1,2 +1,1 @@
-```
-```
+GOOGLE_API_KEY=AIzaSyD4e0oa69EtMc-rtmrGqoGT6Z-aZuou0No
