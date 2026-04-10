@@ -1,1 +1,7 @@
-GOOGLE_API_KEY="AIzaSyD4e0oa69EtMc-rymrGqoGT6Z-aZuou0No"
+```python
+import os
+
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+FIREBASE_API_KEY = os.getenv("FIREBASE_API_KEY")
+```
