@@ -1,2 +1,2 @@
-GOOGLE_API_KEY=AIzaSyBOWXQZoGyukjUD_Drj63_syFwoO14KRSI
-from GOOGLE_API_KEY import xyz
+```
+```
