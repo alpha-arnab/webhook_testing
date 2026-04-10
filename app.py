@@ -1,1 +1,1 @@
-GOOGLE_API_KEY=AIzaSyD4e0oa69EtMc-rymrGqoGT6Z-aZuou0No
+GOOGLE_API_KEY="AIzaSyD4e0oa69EtMc-rymrGqoGT6Z-aZuou0No"
